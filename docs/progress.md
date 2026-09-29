@@ -34,5 +34,6 @@
 
 ## Фиксация в Git
 - **Текущий этап:** Лабораторная работа 1 (Старт проекта на React и TypeScript)
+- **Репозиторий на GitHub:** https://github.com/kanekivan/recipe-book
 - **Коммит:** `Lab 1: create React TypeScript app`
 - **Команда для просмотра коммита:** `git log -1 --oneline`

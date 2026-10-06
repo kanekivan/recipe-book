@@ -4,43 +4,6 @@
   padding: 32px 20px;
 }
 
-.app-header {
-  border-bottom: 2px solid #fed7aa;
-  padding-bottom: 16px;
-}
-
-.app-header h1 {
-  margin: 0 0 8px 0;
-  font-size: 2rem;
-  color: #c2410c;
-}
-
-.app-subtitle {
-  margin: 0;
-  font-size: 1.1rem;
-  color: #4b5563;
-}
-
 .app section {
   margin-top: 32px;
-}
-
-.app-content h2 {
-  font-size: 1.5rem;
-  color: #1f2937;
-  margin-bottom: 16px;
-}
-
-.empty-state {
-  border: 2px dashed #d1d5db;
-  border-radius: 8px;
-  padding: 32px 16px;
-  text-align: center;
-  background-color: #fafafa;
-  color: #6b7280;
-}
-
-.empty-state p {
-  margin: 0;
-  font-size: 1rem;
 }
